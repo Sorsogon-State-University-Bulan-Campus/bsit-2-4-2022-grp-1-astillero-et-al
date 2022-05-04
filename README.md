@@ -38,6 +38,9 @@ Mobile phones serve many important functions. Digital literacy is a critical asp
 📌 "How to Reduce the Negative Effects of Cell Phones - Financial 4.0" https://www.msufcu.org/fin40/story/2111/
 
 📌 "CDC - Radiation: FAQs about Cell Phones and Your Health" https://www.cdc.gov/nceh/radiation/cell_phones._faq.html
+
+📌 https://freewebsitetemplates.com/preview/appswebsitetemplate/index.html
+
 ## Special thanks!📣
 
 We would like to say thank you to our Professor Anthony Gacis for giving us this big opportunity to learn on how to create a static website.
